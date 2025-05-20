@@ -1,7 +1,7 @@
 ## Hi there 👋
-
+iuu
 <!--
-**Chris-fortnosoftball1986/.github** is a ✨ _special_ ✨ repository because its `profile/README.md` (this file) appears on your GitHub profile.
+**Chris-fortnosoftball1986/.github** is a ✨ https://github.com/Chris-fortnosoftball1986/.github/blob/main/profile/README.md_special_ ✨ repository because its `profile/README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
